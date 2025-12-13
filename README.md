@@ -16,6 +16,9 @@ This repository contains a portion of the work I contributed to the Critical Den
 ## Description
 This project is a narrative-driven exploration and resource management game centered around a lone scrapper/junker in the star system Ross-128, a centralized dumping ground wedged between all existing worlds. As various worlds tear through Ross 128 space-time, you traverse to these rifts and gather valuable scrap from the dimensional rifts.  By completing quests given by local shopkeepers the narrative can be progressed, as well as the acquisition of upgrades for various systems such as shopkeeping or ship parts.  
 
+## Purpose
+Collaborate with a multi-disciplinary team to create a large-scale, multi-genre game combining narrative, quests, combat, and resource management systems.
+
 ## Contributions
 - Minigame system to collect items when interacting with a scrap node/wormhole
   - Hook ability of the player ship (to collect scrap)
